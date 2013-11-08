@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/atmos/hubot-gtalk.git"
+    "url": "http://github.com/delr3ves/hubot-gtalk.git"
   },
   "dependencies": {
     "node-xmpp": "0.7.2"
